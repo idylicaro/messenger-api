@@ -39,7 +39,7 @@
     "@nestjs/websockets": "9.0.0",
     "amqp-connection-manager": "^4.1.9",
     "amqplib": "^0.10.3",
-    "bcrypt": "^5.1.0",
+    "bcrypt": "^6.0.0",
     "cache-manager": "^5.1.7",
     "cache-manager-redis-yet": "^4.1.1",
     "passport": "^0.6.0",
